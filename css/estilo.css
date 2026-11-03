@@ -260,6 +260,7 @@ p{margin:0 0 1em}
   .arco--pasos{display:none}
   .obra-publica__grid,.zona__grid,.contacto__grid{grid-template-columns:1fr}
   .ad{aspect-ratio:4/3}
+  .arco--portada{left:14%;top:6%;width:92%;height:24%}
   .ad__foto img{object-position:64% 50%}
 }
 @media (max-width:640px){
